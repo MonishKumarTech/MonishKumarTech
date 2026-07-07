@@ -54,4 +54,4 @@ To build expertise in IT Infrastructure, System Administration, Cloud Computing,
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/monishkumar-k
+- LinkedIn: https://www.linkedin.com/in/MonishKumar-K
